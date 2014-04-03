@@ -1,0 +1,337 @@
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml">
+<head>
+<meta charset="utf-8">
+<meta property="og:type" content="article">
+<meta property="og:url" content="http://devbootcamp.com/blog/page-5/">
+<meta property="og:title" content="Blog - Dev Bootcamp">
+<meta property="og:locale" content="en_US">
+<meta property="fb:admins" content="2900569">
+<meta property="og:description" content="Dev Bootcamp is an intense 9-week bootcamp to train software engineers. Located in San Francisco, CA and Chicago, IL">
+<title>Blog - Dev Bootcamp</title>
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+<link rel="stylesheet" href="/css/reset.css">
+<link rel="stylesheet" href="/css/blog.css">
+<link rel="stylesheet" href="/css/screen.css?v9">
+<meta name="viewport" content="width=1140,user-scalable=yes">
+<script src="/js/modernizr.js"></script>
+<script src="http://use.typekit.net/dti3kjf.js"></script>
+<script>try{Typekit.load();}catch(e){}</script>
+<script>
+	  //<![CDATA[
+	    var _gaq = _gaq || [];
+	    _gaq.push(['_setAccount', 'UA-27309010-1']);
+	    _gaq.push(['_trackPageview']);
+
+	    (function() {
+	      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	    })();
+	  //]]>
+	</script>
+</head>
+<body id="">
+<header>
+<div class="container">
+<h1 class="logo"><a href="/">Dev Bootcamp</a></h1>
+<a href="/jobs" class="were-hiring">We're hiring!</a>
+<nav>
+<ul>
+<li><a class="" href="/learn-more/">DevBootWhat?</a></li>
+<li><a class="" href="/alumni/">Alumni</a></li>
+<li><a class="" href="/employers/">Employers</a></li>
+<li><a class="" href="/get-involved/">Get Involved</a></li>
+<li><a class="" href="/blog/">Blog</a></li>
+<li><a class="" href="/faq/">FAQ</a></li>
+<li><a href="#" class="show-tuition">Tuition</a></li>
+<li><a href="http://apply.devbootcamp.com" class="apply">Apply now</a></li>
+</ul>
+</nav>
+</div>
+</header>
+ 
+ 
+<div class="tuition">
+<div class="container">
+<div class="details">
+<h2>Tuition details</h2>
+<p>
+We do our best to help make this affordable for everyone, so we're including some big discounts on the program.
+</p>
+</div>
+<div class="table-wrap">
+<table>
+<thead>
+<tr>
+<th colspan="3">Discounts</th>
+</tr>
+</thead>
+<tbody>
+  
+<tr>
+<td class="checkbox"><input name="scholarship-options" class="scholarship-check" type="radio" id="minority-in-tech"></td>
+<td class="scholarship">
+<p class="qualify">I qualify for scholarship.</p>
+<p>
+You qualify for a $500 scholarship if you're female, a veteran of the U.S. Military, or from an ethnic minority group underrepresented in the software engineering field (African American, Chicano/Latino, Native American, Pacific Islander).
+The tech world is notoriously unrepresentative of the larger population.
+We believe that the sooner that changes, the better off we all are.
+</p>
+</td>
+<td class="price" id="minority-in-tech-price"></td>
+</tr>
+<tr>
+<td class="checkbox"><input name="scholarship-options" class="scholarship-check" type="radio" id="levo-scholar"></td>
+<td class="scholarship">
+<p class="qualify">I am applying for the Levo Scholars program. <a href="/faq/#levo-scholars">Learn more...</a></p>
+</td>
+<td class="price" id="levo-scholar-price"></td>
+</tr>
+<tr>
+<td></td>
+<td class="total">Total tuition after scholarships</td>
+<td class="price"><span id="price-total">$12,200</span> / total</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+<div class="tuition-close">Close</div>
+ 
+<div class="blog-left"></div>
+<div class="blog-right"></div>
+<div class="container blog">
+<div class="content">
+<div class="blog-post">
+<div class="article-header">
+<div class="default-post-details">
+<h1><a href="/2013/10/01/passions-photography-dancing-coding-anna-marie-chicago/">When Passions For Photography, Dancing, And Coding Come Together</a></h1>
+<p>Posted at 01 Oct 2013 by Staff</p>
+</div>
+<div class="share-btns">
+<div>
+<a href="https://twitter.com/share" class="twitter-share-button" data-via="devbootcamp">Tweet</a>
+</div>
+<div>
+<div id="fb-root"></div>
+<div class="fb-like" data-send="false" data-layout="button_count" data-width="1" data-show-faces="false" data-action="like"></div>
+</div>
+<div>
+<script class="linkedin-share" type="IN/Share" data-counter="right" data-showzero="true"></script>
+</div>
+</div>
+</div>
+<div class="article-post">
+<h2><em>"What I learned at DBC Chicago was how to learn, how to solve a problem. Now, it's up to me to keep doing it over and over so I can speak the language."</em></h2>
+<p><strong>-- Anna-Marie Panlilio</strong></p>
+<p><img src="http://devbootcamp.github.com/imgs/blog/alumni/annamarie-chicago.jpg" alt="Dev Bootcamp"/></p>
+<p>Today we hear from <a href="http://panlil.io">Anna Marie Panlilio</a>, dancer, photographer, and recent graduate of Dev Bootcamp Chicago. Dev Bootcamp students share a common love for coding, but how each individual student came to that love is always a unique story. In our Alumni in Action series we invite graduates of Dev Bootcamp to share some of their personal story.</p>
+<p>Anna Marie talked with us about following her passions for dancing and photography, the differences between working with early html more than a decade ago and learning Ruby on Rails now, and the big realization that helped her succeed at Dev Bootcamp.</p>
+<p><img src="http://devbootcamp.github.com/imgs/blog/alumni/anna-marie-pic.png" alt="Dev Bootcamp"/></p>
+<h2>Tell us a little bit about your background.</h2>
+<p><em>I like to immerse myself in things I'm interested in and see them through to places I never expected.</em> I have a rich history, much of it in dance, photography, and web work.</p>
+<p>For example, I grew up dancing as a young girl. I auditioned for a lot of things and kept getting rejected. They’d say, “You’re not good enough” or “You don’t have enough energy” and things like that. But I loved it, so I kept doing it, going to classes and learning.</p>
+<p>After graduating from Northwestern, I was planning to come back to California and look for a job doing web stuff. But one of my dance professors was starting a new dance company so I auditioned and got in. I stayed in Chicago, and it was amazing. I danced with them for four years, and I learned so much. At the same time I was working in the John Hancock Building doing early html work with a team there. It was a great life.</p>
+<h2>How did you get into photography?</h2>
+<p>I got interested while I was dancing, especially in the photography of dance. At one point I studied in Italy, but the program there wasn't a great fit. They wanted to help me come up with a vision, but I already had that -- I could see the pictures I wanted to take in my mind.</p>
+<p>They didn't have the technical chops to teach me what I wanted to learn so I came back and worked in web and graphic design roles. Meanwhile I took photography courses at community colleges, picking up the technical skills that I wasn’t able to get in Italy. I kept shooting and doing side projects.</p>
+<p>After a few years I was working as the presentation person for a VP in Southern California and one day I just said okay, I’m going to do it. I moved up to San Francisco with the goal that in ten years I would be a professional dance photographer. That was in 2005.</p>
+<p>Going to a 2-day workshop in New York with my favorite dance photographer in 2007 is what really got the ball rolling. She brought in professional dancers, and I got behind the camera and started directing them. At that point I realized “I can do this.” This isn't a pipe dream.</p>
+<p>I came back to California and started calling all my dancer friends and saying, “Hey, I’m going to do some photos. Do you want to play around in the studio with me?” I just kept practicing and shooting a lot, sharing my photos online and getting enough people interested to the point where I would just have people say, “Hey, I need pictures done."</p>
+<p>And now, in the fall of 2013, I just had 16 new photographs go up in an art exhibit, so I’m happy to say I made my goal happen in less than the ten years. Here I am doing it. Maybe not full-time, but I’m doing it.</p>
+<h2>What was your catalyst for applying to Dev Bootcamp?</h2>
+<p>Sitting in corporate offices and saying to myself, <em>“I can’t live my life like this anymore. I know what it’s like on the other side, to have rich experiences, and I want that in a working environment. How can I get that?”</em></p>
+<p>I've had a variety of jobs in large corporations doing work that wasn't fulfilling. I would walk into these offices and shut off a part of myself. I found myself going through a day without laughing, or sometimes without even smiling. Walking down the hallway and having coworkers give a half smile, if they even looked up at all.</p>
+<p>I started thinking, “When was I really happy at a job?” It was on that web team, back in Chicago after I first graduated. We had a lot of fun. We worked hard. We did things on deadline. We <em>made</em> things. But I knew that my skills weren’t there anymore because technology moves so fast.</p>
+<p>I heard about Dev Bootcamp and similar boot camps, and I had this hunch that it would be the right place for me.</p>
+<p><em>I chose Dev Bootcamp because of the engineering empathy and the emphasis on soft skills, or the inclusion of soft skills, which I didn’t see was happening anywhere else.</em></p>
+<h2>What was your experience like?</h2>
+<p>During the month leading up to DBC starting I was conceptualizing and shooting the series for my art show in San Francisco. It was a tough transition because it was right before I left for Chicago. I knew once I got to Dev Bootcamp I wouldn't have any time for it.</p>
+<p>I spent a lot of time clearing my plate so that I could be fully present at Dev Bootcamp. That meant shooting a ton of photography and not prepping enough for Dev Bootcamp. Because of that, my first week felt like I was drowning. I felt really behind. I kept thinking, "I don’t know if I can hack it… I don’t know if I can stay." They give you that week to decide whether or not you’re going to stay or not.</p>
+<p>But then that Friday (Day 5) at lunchtime, two of the people in the cohort ahead of me (nicknamed the squirrels), made an announcement that the squirrels wanted to pair with us newbies over the weekend. They put up a whiteboard with their names, time-slots, and they said, “Sign up if you want to pair.”</p>
+<p><em>All of a sudden this weight came off of my shoulders. “What? I can get help? I can go at a different pace? That’s when I decided that I was going to stay. If this is what it’s like, then yes, I’m still going to be going crazy, but at least I’m not all on my own.</em></p>
+<p>For all nine weeks, every weekend I paired with a "squirrel" in some way or another. Meeting the first cohort in Chicago was amazing. They were so tight as a group, just cohesive and having fun. You could see they were just really loving it there and really setting the culture in a great way.</p>
+<p>It didn't take long for me to realize that the goldmine of Dev Bootcamp, or at least one of them, is the people.</p>
+<p>When incoming cohorts come in, we’re asked to offer advice. Mine was that people are the magic sauce. You can learn something from anyone here. Just take advantage of that.</p>
+<h2>You talk about Engineering Empathy as one of the reasons that you picked that boot camp, in the first place. How did that play out in your experience?</h2>
+<p>One of the conversations I had when I paired with a Squirrel that first weekend was about how his cohort got so close. My cohort, that'd been there for five days, was still very much strangers to each other. He attributed it to improv and things like that, but I noticed that it happened with us after the third engineering empathy session. I observed the group dynamic of the cohorts that followed and noticed a similar pattern.</p>
+<p>I had met the Squirrels after they had gone through all three of those empathy sessions.</p>
+<p><em>Once you start having those conversations when you're below the waterline and you're telling things to people that you probably haven't told to anyone in your life, you really have no choice but to bond.</em> I mean, you have the choice, but if you can empathize with them, you're going to break down those walls, and that's what happened.</p>
+<h2>You had done web design before with static web pages, and you characterized your skills as no longer relevant or up to date. I don't want to put words in your mouth. Was it a help or a hindrance to have a background in web design?</h2>
+<p>Definitely a big help. Especially when it got to phase two and we started doing front end challenges. The CSS didn't faze me. I was able to help our group projects come together at least by making them look nice on the front. Then, also having an understanding of what the pieces are.</p>
+<p>Even though I didn't know the backend before, I knew how to implement websites pretty well. I'd taken other people's code and made it work before.</p>
+<h2>Is there an overlap between dance, photography, and coding?</h2>
+<p>Sure. Where I am right now as this world class beginner is a place I've been with both dance and photography. The way that I got better at both of those was by doing it as much as possible and not giving up. Focusing, sticking with it, and practicing until it becomes engrained.</p>
+<p>I freeze people in motion in photography where I have them suspended in mid-air. You have to have certain technical things in order to take a shot like that. I shoot everything on manual. I can pick up the camera and know exactly how to adjust so that I get the shot that I want the first time, as long as they jump well the first time, that is. It's now second nature because of all the times that I have done it.</p>
+<p><em>I think it's the same as programming. What I learned at DBC Chicago was how to learn, how to solve a problem. Now, it's up to me to keep doing it over and over so I can speak the language.</em></p>
+<p>It reminds me of when I was in Italy and learning Italian. I took a train to Rome from Florence by myself one weekend. I got off at the train stop and asked one of the workers, “Where is bus number 4?” in Italian. He responded back to me in Italian. I was so excited because he knew what I was saying even though I had no idea what his answer was. I just smiled this huge smile. I was like, "Yeah. Wow. Wait, I have no idea what he just said."</p>
+<p>One morning after four months in Italy when I was back in America, I woke up from a dream that was all in Italian. I was thrilled. I'm hoping that'll happen with code too.</p>
+<h2>Is there anything else you think people thinking about Dev Bootcamp should know?</h2>
+<p>It’s a very social learning environment, and if that’s something that’s not for you, you might have a hard time. I don’t think it matters if you're an introvert or an extrovert. I think introverts can succeed really well at boot camp. I’m not an extrovert. I think before I speak but I’m a social learner, and I thrive in team environments.</p>
+<p><em>You pair program everyday at DBC. One of the benefits is you can get through a lot more together then you can on your own so definitely consider Dev Bootcamp if that’s something that you think you would enjoy.</em></p>
+</div>
+</div>
+<div class="blog-post">
+<div class="article-header">
+<div class="default-post-details">
+<h1><a href="/2013/09/25/A-Windy-City-Status-Update/">A Windy City Status Update</a></h1>
+<p>Posted at 25 Sep 2013 by staff</p>
+</div>
+<div class="share-btns">
+<div>
+<a href="https://twitter.com/share" class="twitter-share-button" data-via="devbootcamp">Tweet</a>
+</div>
+<div>
+<div id="fb-root"></div>
+<div class="fb-like" data-send="false" data-layout="button_count" data-width="1" data-show-faces="false" data-action="like"></div>
+</div>
+<div>
+<script class="linkedin-share" type="IN/Share" data-counter="right" data-showzero="true"></script>
+</div>
+</div>
+</div>
+<div class="article-post">
+<p><img src="http://2.bp.blogspot.com/-dVHy1rX9ybo/Tqn_rNYcAqI/AAAAAAAAFP4/7saDMCHTXU8/s1600/chicago.jpg" alt="code" height="470" width="700"></p>
+<p>For the last 5 months, Dev Bootcamp Chicago has been launching newly minted junior developers into the midwestern software ecosystem and beyond. The program is structured the same as San Francisco, with new cohorts of students graduating every 3 weeks.</p>
+<p>Earlier this week, DBC co-founder and Chicago head Dave Hoover shared a bit of what's happened in that time over on <a href="http://www.builtinchicago.org/blog/dev-bootcamp-grads-hit-job-market">Built In Chicago</a>.</p>
+<h2>By the numbers</h2>
+<p>Like in our San Francisco program, we're seeing great results on the hiring front:<br></p>
+<p>5 graduated cohorts<br>
+70 students<br>
+90% of the first cohort employed<br>
+$70ks average salary of graduates<br></p>
+<h2>Beyond the numbers</h2>
+<p>Groupon, Eight Bit, BrightTag, Sprout Social, NCSA, Instructure, Braintree, Mondo Robot, Clinkle - <em>some of the companies where our students have landed</em><br>
+Chicago, Austin, San Francisco, Boulder, Minneapolis, New York City - <em>a few of the cities where graduates have relocated - although many are choosing to stay in Chicago</em><br>
+<a href="http://heygirl.io">HeyGirl.io</a> - a student project from <a href="http://twitter.com/keccers">Katherine Champagne</a> that went viral while she was in cohort<br>
+<a href="https://github.com/rwarbelow/the_swot_bot/tree/master">The SWOTBOT</a> - standing for "Scholars Working OverTime," a fully functional classroom management system build as a final project and now used every day in the classroom of alumni <a href="Rachel%20Warbelow">Rachel Warbelow</a></p>
+<p>We love seeing how the Chicago community is thriving in similar ways to our San Francisco graduates, all while developing its own unique and inspiring culture, and can't wait to see what comes of future cohorts.</p>
+<p>To read more, check out <a href="http://www.builtinchicago.org/blog/dev-bootcamp-grads-hit-job-market">"Dev Bootcamp Grads Hit The Job Market"</a></p>
+</div>
+</div>
+<div class="blog-post">
+<div class="article-header">
+<div class="default-post-details">
+<h1><a href="/2013/09/19/alexis-mural-dev-bootcamp-chicago-mural/">THINK HERE! You've Never Seen A Mural Like What Alexis Finch Made For DBC Chicago</a></h1>
+<p>Posted at 19 Sep 2013 by Staff</p>
+</div>
+<div class="share-btns">
+<div>
+<a href="https://twitter.com/share" class="twitter-share-button" data-via="devbootcamp">Tweet</a>
+</div>
+<div>
+<div id="fb-root"></div>
+<div class="fb-like" data-send="false" data-layout="button_count" data-width="1" data-show-faces="false" data-action="like"></div>
+</div>
+<div>
+<script class="linkedin-share" type="IN/Share" data-counter="right" data-showzero="true"></script>
+</div>
+</div>
+</div>
+<div class="article-post">
+<h2><em>"I wanted to create something fun, something to lighten a hard day, a space that gave everyone the permission to play, to joke around."</em> -- Alexis Finch</h2>
+<p><img src="http://devbootcamp.github.com/imgs/blog/alexis/dbc-chi-mural.jpg" alt="Dev Bootcamp"/></p>
+<p>If you visit Dev Bootcamp Chicago, you'll see an eight foot high mural amidst the red brick where the door for a freight elevator once was. At this point it's embedded in DBC Chicago school culture. It's a space where graduating students leave advice, where current students share inspiring quotes, or where people can take a break and just play. But when Dave Hoover, director of DBC Chicago, was putting together the Chicago vision, that old freight elevator was just a big square of bland drywall.</p>
+<p><em>"For some reason the blank square made me think of Instagram, and I thought it would be a cool blackboard space. The idea was to inspire and invite people to create and think in public.</em></p>
+<p><em>I've known Alexis for years and she does some amazing things with sketch notes. She did what we commissioned her to do, and then she just kept going. She did things I never expected and it turned out amazing. And she did it the day before she moved to New York, so it's cool that this was kind of her final act in Chicago. She signed her name and then the next day she was off!"</em></p>
+<p>Watch an awesome timelapse creation of the mural set to music here: <a href="http://www.youtube.com/watch?v=d9Vg13RENK0">http://www.youtube.com/watch?v=d9Vg13RENK0</a></p>
+<p>I got the chance to talk with Alexis Finch herself and learn more about how and why she uses sketch notes, her process in making the DBC mural, and what she's working on next.</p>
+<p><img src="http://devbootcamp.github.com/imgs/blog/alexis/alexis.jpg" alt="Dev Bootcamp"/></p>
+<h2>What were you trying to create with the DBC Chicago mural?</h2>
+<p>Signing on to DBC is a huge commitment. These students are dedicating themselves to nine weeks of work, day in day out focused on reaching a level of aptitude that normally takes years to achieve. What's more, these aren't just facts and figures they're learning. They're teaching their minds to solve problems in completely different ways, in a new language... while on a deadline.</p>
+<p><em>I wanted to create something fun, something to lighten a hard day, a space that gave everyone the permission to play, to joke around.</em></p>
+<p>The whole mural is a series of inside jokes about Ruby on Rails. I've been sketchnoting technology talks for the past three years and coming from the outside, there are a lot of terms that I've always found funny. I like playing with language, so for this I took the visual metaphors I've used in other sketchnotes and stretched them a bit more. I also wanted to be sure there were a few "easy" spaces for people to contribute. That's what the faces are for, as well as the "how to draw a dinosaur" instructions.</p>
+<p><em>I teach sketchnote classes, and the biggest challenge is always getting folks past the idea that only artists can draw. Anyone can draw! They just need somewhere to start.</em></p>
+<p>So, that's what I was trying to create: an opening.</p>
+<h2>What was your experience creating the mural there like?</h2>
+<p>Wow. It was, to say the least, intense.</p>
+<p><em>I had this blank wall and the challenge of creating something that DBC would be proud to have not just for a few weeks, but for class after class.</em></p>
+<p>It needed to be engaging, but also not distracting. I had a few ideas at the beginning, bits and phrases that I knew I wanted to include, but staring at a blank wall is always intimidating. I made a few rough sketches, but on the timeline I had, there wasn't time to go through a bunch of iterations. The DBC space wasn't even finished yet, and I was mainly working through the night, so from the start, it was a very surreal environment to be in. Big glass windows, lights from the city, an empty office.</p>
+<p>The soundtrack to the time-lapse is two songs by <a href="https://soundcloud.com/alt-j">Alt-J</a>. I'd just discovered them from an NPR piece and liked the way the whole album kind of pulls you along. I had that album playing on repeat, through my crappy laptop speakers, the whole time I was painting.</p>
+<p><img src="http://devbootcamp.github.com/imgs/blog/alexis/alexis-muraling.png" alt="Dev Bootcamp"/></p>
+<p><em>Sketchnoting for me is meditational process, hearing what the speaker is saying, but letting it all kind of flow past, grabbing the important parts and interpreting them on the fly.</em></p>
+<p>It's a very different feeling, but once I had the general layout on the wall, that same almost trance state took over. I'd be painting and then realize the sun had come up.</p>
+<p><em>There's always that feeling, when you're getting close to completing a piece, where it's more like you're excavating a building. I've heard people talk about programming this way as well, when you already know the structure of what you need to code and the rest kind of falls into place.</em></p>
+<p>It was hard to walk away from the piece at the end. I didn't want that feeling to be over, but at some point, you just have to sign your name and walk away. Build and ship, right?</p>
+<h2>How did you get started with sketch notes in the first place?</h2>
+<p><em>I'm incredibly lucky for having gone to a very strange school for seventh through twelfth grade. While in other schools teachers would punish kids for doodling, we were encouraged to.</em></p>
+<p>Everyone took art classes, so it was natural that while we were learning to draw that would creep into our notes in other classes. My art teacher, Rob Logan, was very adamant about tearing down the idea of 'the artist.' He got all of us sketching no matter if we loved it from the start or not. My notes back then in school were always filled with boxes and arrows and faces, and I'd remember things we'd talked about in class from the image I'd drawn next to the date I needed to remember.</p>
+<p>I found out years later that a fellow classmate, Sita Magnuson, had started working at a company that did Graphic Facilitation. She'd be hired by a company to visually document a business meeting or summit, capturing the ideas, leading discussion in a productive direction by providing visual anchors for what was being said. I thought that was pretty amazing, so I started doing the same kind of thing in my sketchbook. This was around the same time that <a href="http://www.imagethink.net/technology/sketchnotes-at-sxsw-v2v/">Image Think got brought to SXSW</a> to visualize the talks there.</p>
+<p>I guess what surprised me was how much people liked the notes I was taking, so I started posting them up online and asking around to see if anyone would like me to come in and cover their talks. Since I was involved in the tech scene in Chicago, most of those were tech talks, starting with Dave inviting me to Obtiva's <a href="https://twitter.com/geekfest">Geekfests</a>.</p>
+<h2>Why do you think it's beneficial for people to use sketch notes ?</h2>
+<p>We're all visual thinkers at heart. Two-thirds of our brain is dedicated to processing visual information. We're pretty good at remembering what we see, be it a particular car, or a person's face. Reading is already visual, interpreting symbols into meaningful ideas. What's interesting is when you tie images, particularly metaphor based ones, in with words to explain a new idea. By creating references to thing you already know, recall of the new idea is improved.</p>
+<p><em>There's been a lot of study on how just moving a pencil across a page can improve recall of information someone is listening to. I think a lot of that is just giving idle hands something to do. It's like fidgeting. You're getting rid of excess energy which would otherwise wind up being a distraction.</em></p>
+<p>Taking that idle movement and focusing it into a documentation of what you're hearing, that creates a secondary path of recall of the information your'e taking in. You might remember what you heard, but you also remember what you thought about what you were hearing. When the sketchnotes I do are paired with a talk, even though the person looking at them didn't create them, they get a kind of road map of what they've just learned.</p>
+<p>Looking at a sketchnote while listening to a talk also works to focus the mind on what information is going to be important. It's like having a someone standing alongside the speaker saying <em>"Ok, now this part is going to be important."</em></p>
+<p>By doing all this with metaphor, there's the bonus of making what might be a really confusing topic a bit more approachable. I break down the big ideas into smaller things that are relatable, and hence rememberable.</p>
+<h2>What's your favorite thing you've learned about how sketch notes facilitate note-taking?</h2>
+<p>Really it's that they can help anyone. You don't have to be a 'professional' to do them, or a 'real artist.' You don't even need to include all the faces and dinosaurs. Just making your notes visually engaging, putting effort into selecting the words you write down, that's enough to boost recall.</p>
+<p><em>It's funny to think that if all was right in the world, my work wouldn't be needed at all. Everyone would be doing sketchnotes all the time, so why would they need to bring me in?</em></p>
+<h2>What are you working on now?</h2>
+<p>I've been doing a bunch of work for <a href="http://500.co/">500startups</a>. I created sketchnotes of all twenty-nine companies in their last batch, pulling from their demo day pitches as well as information on their websites. That was a big challenge, again creating images not just from what someone was saying, but really building out the story for each company through visuals. Pitches have to spend so much time on funding and user adoption, but I needed to show what each company really did.</p>
+<p>It was a big job, but I'm excited to get to do more work like that. It ties back to the UX research and strategy consulting I do, so there's something very satisfying about that. Using more parts of my brain at once, drawing from multiple skill sets.</p>
+<h2>Where would you send someone interested in learning more about sketch notes?</h2>
+<p>I do teach classes and workshops on visual thinking, not just to learn to do sketchotes, but how to interpret and create infographics and an intro to prototyping. I encourage everyone to just get a sketchbook and a pencil and try it out.</p>
+<p><em>There's no 'wrong' way to do a sketchnote, and the more you do, the easier it gets. I actually have a hard time not sketchnoting while listening to a talk. Sometimes I even wind up grabbing some paper when a friend is talking, just because the visuals of what they're saying are so vivid.</em></p>
+<p>For a crash course though, and one that you can do any time, <a href="http://rohdesign.com/">Mike Rohde</a> – who actually coined the term "sketchnote" – wrote an awesome book called <a href="http://www.peachpit.com/store/sketchnote-handbook-the-illustrated-guide-to-visual-9780321885111">"The Sketchnote Handbook."</a></p>
+<p>It has exercises, tips and tricks, video tutorials, as well as a peak into his process. I was really excited that he asked me to be one of the folks to contribute a sketchnote about my own techniques and how I got into doing this crazy visual thinking thing. The book is an incredible resource and also a lot of fun to work through.</p>
+<p>Of course, anyone is also always welcome to pick my brain at <a href="https://twitter.com/agentFin">@agentfin</a> on Twitter!</p>
+</div>
+</div>
+<div class="pagination">
+<a href="/blog/page-4" class="previous">Previous</a>
+<span class="page_number ">Page: 5 of 51</span>
+<a href="/blog/page-6" class="next">Next</a>
+</div>
+</div>
+ 
+<div class="sidebar">
+<h2>Get Updates</h2>
+<p>
+Be the first to get updates about anything Dev Bootcamp related!
+</p>
+<form action="http://bettermeans.us2.list-manage2.com/subscribe/post?u=208c2e37446472f0a65c1a127&amp;id=a4766f6720" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+<input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
+</form>
+<ul class="social">
+<li><a href="http://quora.com/dev-bootcamp" class="quora">Quora</a></li>
+<li><a href="http://twitter.com/devbootcamp" class="twitter">Twitter</a></li>
+<li><a href="http://facebook.com/devbootcamp" class="facebook">Facebook</a></li>
+<li><a href="http://github.com/devbootcamp" class="github">Github</a></li>
+</ul>
+</div>
+ 
+</div>
+ 
+<footer class="blog-footer">
+<div class="container">
+<nav>
+<ul>
+<li><a href="/">Home</a></li>
+<li><a href="/learn-more/">DevBootWhat?</a></li>
+<li><a href="/alumni/">Alumni</a></li>
+<li><a href="/employers/">Employers</a></li>
+<li><a href="/faq/">FAQ</a></li>
+<li><a href="/blog/">Blog</a></li>
+<li><a href="http://apply.devbootcamp.com">Apply</a></li>
+</ul>
+</nav>
+<span class="copyright">&copy; 2012 Bootcamp Education Inc</span>
+</div>
+</footer>
+<script src="http://fast.wistia.com/static/concat/E-v1.js"></script>
+<script src="/js/jquery.js"></script>
+<script src="/js/jquery.mousewheel.js"></script>
+<script src="/js/jquery.jscrollpane.js"></script>
+<script src="/js/jquery.bxSlider.js"></script>
+<script src="/js/jquery.lightbox.js"></script>
+<script src="/js/dbc.js"></script>
+<script src="/js/social_media.js"></script>
+<script src="/js/bppe.js"></script>
+<script src="/js/video_player.js"></script>
+<script src="/js/she_codes.js"></script>
+</body>
+</html>

@@ -1,0 +1,276 @@
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml">
+<head>
+<meta charset="utf-8">
+<meta property="og:type" content="article">
+<meta property="og:url" content="http://devbootcamp.com/blog/page-3/">
+<meta property="og:title" content="Blog - Dev Bootcamp">
+<meta property="og:locale" content="en_US">
+<meta property="fb:admins" content="2900569">
+<meta property="og:description" content="Dev Bootcamp is an intense 9-week bootcamp to train software engineers. Located in San Francisco, CA and Chicago, IL">
+<title>Blog - Dev Bootcamp</title>
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+<link rel="stylesheet" href="/css/reset.css">
+<link rel="stylesheet" href="/css/blog.css">
+<link rel="stylesheet" href="/css/screen.css?v9">
+<meta name="viewport" content="width=1140,user-scalable=yes">
+<script src="/js/modernizr.js"></script>
+<script src="http://use.typekit.net/dti3kjf.js"></script>
+<script>try{Typekit.load();}catch(e){}</script>
+<script>
+	  //<![CDATA[
+	    var _gaq = _gaq || [];
+	    _gaq.push(['_setAccount', 'UA-27309010-1']);
+	    _gaq.push(['_trackPageview']);
+
+	    (function() {
+	      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	    })();
+	  //]]>
+	</script>
+</head>
+<body id="">
+<header>
+<div class="container">
+<h1 class="logo"><a href="/">Dev Bootcamp</a></h1>
+<a href="/jobs" class="were-hiring">We're hiring!</a>
+<nav>
+<ul>
+<li><a class="" href="/learn-more/">DevBootWhat?</a></li>
+<li><a class="" href="/alumni/">Alumni</a></li>
+<li><a class="" href="/employers/">Employers</a></li>
+<li><a class="" href="/get-involved/">Get Involved</a></li>
+<li><a class="" href="/blog/">Blog</a></li>
+<li><a class="" href="/faq/">FAQ</a></li>
+<li><a href="#" class="show-tuition">Tuition</a></li>
+<li><a href="http://apply.devbootcamp.com" class="apply">Apply now</a></li>
+</ul>
+</nav>
+</div>
+</header>
+ 
+ 
+<div class="tuition">
+<div class="container">
+<div class="details">
+<h2>Tuition details</h2>
+<p>
+We do our best to help make this affordable for everyone, so we're including some big discounts on the program.
+</p>
+</div>
+<div class="table-wrap">
+<table>
+<thead>
+<tr>
+<th colspan="3">Discounts</th>
+</tr>
+</thead>
+<tbody>
+  
+<tr>
+<td class="checkbox"><input name="scholarship-options" class="scholarship-check" type="radio" id="minority-in-tech"></td>
+<td class="scholarship">
+<p class="qualify">I qualify for scholarship.</p>
+<p>
+You qualify for a $500 scholarship if you're female, a veteran of the U.S. Military, or from an ethnic minority group underrepresented in the software engineering field (African American, Chicano/Latino, Native American, Pacific Islander).
+The tech world is notoriously unrepresentative of the larger population.
+We believe that the sooner that changes, the better off we all are.
+</p>
+</td>
+<td class="price" id="minority-in-tech-price"></td>
+</tr>
+<tr>
+<td class="checkbox"><input name="scholarship-options" class="scholarship-check" type="radio" id="levo-scholar"></td>
+<td class="scholarship">
+<p class="qualify">I am applying for the Levo Scholars program. <a href="/faq/#levo-scholars">Learn more...</a></p>
+</td>
+<td class="price" id="levo-scholar-price"></td>
+</tr>
+<tr>
+<td></td>
+<td class="total">Total tuition after scholarships</td>
+<td class="price"><span id="price-total">$12,200</span> / total</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+<div class="tuition-close">Close</div>
+ 
+<div class="blog-left"></div>
+<div class="blog-right"></div>
+<div class="container blog">
+<div class="content">
+<div class="blog-post">
+<div class="article-header">
+<div class="default-post-details">
+<h1><a href="/2013/12/04/Announcing-A-New-Partnership-With-Levo-League/">New Levo Partnership To Promote Gender Diversity</a></h1>
+<p>Posted at 04 Dec 2013 by Lloyd Nimetz</p>
+</div>
+<div class="share-btns">
+<div>
+<a href="https://twitter.com/share" class="twitter-share-button" data-via="devbootcamp">Tweet</a>
+</div>
+<div>
+<div id="fb-root"></div>
+<div class="fb-like" data-send="false" data-layout="button_count" data-width="1" data-show-faces="false" data-action="like"></div>
+</div>
+<div>
+<script class="linkedin-share" type="IN/Share" data-counter="right" data-showzero="true"></script>
+</div>
+</div>
+</div>
+<div class="article-post">
+<p><img src="https://www.evernote.com/shard/s189/sh/7c148fc3-8086-4d2d-bae0-045bdfe1a58b/90d93b7c145ed0a0b5bdad689b4552af/deep/0/levo_DBCnyc2.jpg.png" title="Dave, Shereef, Tanner and I posing with representatives of Levo League and Boot Alumni Katherine and Wendy" alt="launch_pic_Levo_DevBootcamp"/></p>
+<p>At the Nov. 21 DBC::NYC launch party in SoHo, Shereef, Dave, Tanner and I stood alongside two representatives of <a href="http://www.levo.com/">Levo League</a> to announce a new strategic partnership between our organizations. We unveiled a partial scholarship program called <a href="http://devbootcamp.com/faq/#levo-scholars">the Levo Scholars program</a>.</p>
+<p>Starting immediately, women admitted as Levo Scholars will receive a $2,500 discount on the tuition. These partial scholarships will initially be assigned on a first-come, first-serve basis for the first ten (10) Levo women who pass through Dev Bootcamp’s gender- and race-blind admissions process.</p>
+<p>The announcement was covered by dozens of publications, including this good article in <a href="http://upstart.bizjournals.com/news/technology/2013/11/25/levo-league-partners-with-dev-bootcamp.html?page=2">UpStart Business Journal</a>.</p>
+<p>Levo League is a highly respected community of professional women, operating in 22 cities throughout the US. We see this as an important step but only our first of many together to move towards our shared goal of gender parity in tech. We are also actively pursuing partnerships with other progressive organizations supporting women in technology with the hope to also sign up another similar Scholars program.</p>
+<p>We approached Levo League and some other progressive organizations with this initial partnership idea – offering to bear the full financial burden of the $2,500 scholarship – for various no-brainer reasons: a) because our staff and alumni are already closely involved with these organizations, b) because we share their values, c) because they’re highly effective organizations with large and dynamic memberships we love, and d) because we think DBC’s gender diversity efforts will be much more impactful with them as a close ally and partner.</p>
+<p>Putting real money down was very important to us because when it comes to gender diversity there is a lot of talk out there. For that reason, it was very important to us to walk the talk. DBC sells out every one of its student cohorts so a partial scholarship like this one directly hits our bottom line. Hats off to Caroline Ghosn and her team at Levo for walking the talk too. From the minute we sat down with them, they immediately jumped onboard and have been instrumental in making this a reality. We are extremely fortunate to be partnering with such a supportive and innovative organization like Levo.</p>
+<p>For Tanner and I, it was very important to make gender diversity the central announcement of our NYC launch. We recognize that institutionalized sexism continues to limit women's success in the technical workforce and often discourages entry. While many of these forces are beyond our control, we believe that the first step is to acknowledge this reality and take some action towards addressing it. Doing nothing will only perpetuate existing inequalities. I like the popular phrase, “if you’re not angry, you’re not paying attention.” We’re “angry” and feel that Dev Bootcamp is in a strategic position to contribute to the larger movement for gender parity in tech.</p>
+<p>Internally at DBC diversity is baked into the team’s values so it has manifested itself in the curriculum, pedagogy and various other design decisions, but we’re only now more methodologically formulating a DBC gender diversity plan. In an open-source spirit, I’d like to share some of our initial thinking (initial pull request) and am hoping to get some of your input to inform what, exactly, we end up doing (code review &amp; refactoring). Please note that this is just some preliminary thinking and nothing is fully fleshed out or decided. I hope opening this up will trigger a larger conversation among the amazing DBC community and lead to bigger and better outcomes. I also not-so-secretly hope it will inspire other bootcamps to dial up their diversity efforts along with us:</p>
+<ul>
+<li><strong>External</strong>. Gender parity (50:50 women/men) in our cohort admissions is a difficult but important goal to work towards. With the recent hire of a new VP of Marketing, Brandon Croke, and as we ramp up our marketing efforts from $0 spend to “not zero”, it’s important to us to get word of Dev Bootcamp out to more women via strategic partnerships like this one with Levo League and other types of outreach.</li>
+<li><strong>Internal</strong>. Here we deliberately seek to engineer and nurture an educational environment that is respectful of every student’s perspective. In fact beyond just respectful, we want to optimize our culture, curriculum and staff to enable fast-paced, break-through learning for students of all backgrounds, shapes, sizes, socio-economic levels and colors. This is hard, very hard, because you can’t optimize for everybody at the same time. At a minimum, Dev Bootcamp must be a place where all students are welcomed and feel safe. To do this we take active consideration in feedback sessions with each cohort to ensure that we surface and address attributes of our internal culture which may be inadvertently discriminatory towards a given group. Formally holding up the mirror to Dev Bootcamp every three weeks can be hard, but it’s necessary. We also discuss topics like sexism and oppression as part of the curriculum so that students are better equipped to face these difficult topics both internally and in their future workplaces. The best way to drive systemic change is to help people be the change and that starts with self-awareness and more developed empathy skills. Lastly, we are also keenly aware that women are more attracted to environments with other women (students, teachers and staff), so this is a priority for us as well.</li>
+</ul>
+<p>As Dev Bootcamp continues to expand and as we graduate more people into software engineering careers, we also want to take concrete measures to increase our commitment to gender diversity. With greater impact comes greater responsibility. Gender inequality in tech is what they call a <a href="http://en.wikipedia.org/wiki/Wicked_problem">‘wicked problem’</a> with very complex root causes, and the solution is therefore equally complex. At DBC, we don’t pretend to have the answers, but that’s no excuse for inaction. We’re always looking to do more and to support existing initiatives. If you have ideas or ways to help us further our gender diversity efforts, please don’t hesitate to reach out (e.g. speaking engagements at women’s groups, female mentors/speakers to DBC students, articles on gender parity, women hackathons, mentoring girl groups that are getting exposed to coding, etc.).</p>
+</div>
+</div>
+<div class="blog-post">
+<div class="article-header">
+<div class="default-post-details">
+<h1><a href="/2013/11/06/Why-Am-I-Doing-Dev-Bootcamp-NYC/">Why am I doing Dev Bootcamp, NYC?</a></h1>
+<p>Posted at 06 Nov 2013 by Lloyd Nimetz</p>
+</div>
+<div class="share-btns">
+<div>
+<a href="https://twitter.com/share" class="twitter-share-button" data-via="devbootcamp">Tweet</a>
+</div>
+<div>
+<div id="fb-root"></div>
+<div class="fb-like" data-send="false" data-layout="button_count" data-width="1" data-show-faces="false" data-action="like"></div>
+</div>
+<div>
+<script class="linkedin-share" type="IN/Share" data-counter="right" data-showzero="true"></script>
+</div>
+</div>
+</div>
+<div class="article-post">
+<p><em>Tanner Welsh, my co-conspirator here in NYC, wrote an <a href="http://devbootcamp.com/2013/10/30/Announcing-Dev-Bootcamp-New-York-City/">inspiring blog post</a> last Wednesday to announce our launch. Please read his first; our posts are intended to be read together.</em></p>
+<p>--</p>
+<p>Last Wednesday, we opened the floodgates to DBC::NYC applicants, and it’s been thrilling to see how many are applying. As these highly accomplished people make the courageous leap of faith to become professional geeks, I’ve noticed myself starting to feel heightened levels of adrenaline and anxiety. It’s show time!</p>
+<p>So you might ask: <em>“Why any anxiety? Dev Bootcamp has already been highly successful in San Francisco and Chicago accepting a small % of applicants, graduating 450 people and achieving ~90% employment rates at an ~$80k average salary within 3 months. You just have to replicate this tried-and-true model in NYC.”</em></p>
+<p>First of all, replicating the original, magical learning culture of Dev Bootcamp San Francisco is hard. Very hard. As any great teacher knows ever so well, you can’t just replicate all the intangibles that bring people to life… that make people capable of pushing far beyond their comfort zones and do things they’ve never dreamed possible… a culture that breaks down self-imposed barriers to learning. Earlier this year, Dave and his team did it in Chicago so I’m very confident we can do it again in NYC, but it’s a herculean undertaking with thousands of moving parts. Shereef and all the members of the DBC team are some of the most gifted and dedicated educators and web developers I’ve known. They are also some of the most authentic people I’ve ever worked with. Their blood, sweat and tears are what have made DBC a success so far so it looks like Tanner and I will be loosing a lot of bodily fluids over the next year.</p>
+<p>I’m writing this blog to answer a question that a lot of my friends are asking me: <em>“Why are you doing this?”.</em> Here are my primary reasons:</p>
+<p><strong>To close the employment gap for software developers.</strong> Unemployment is one of the biggest issues in the US, Europe and world today yet companies are simultaneously desperate to hire software developers. Go to any software company’s job board, and you’ll see that most of the job openings are for software developer positions. Our society is simply failing to educate enough people to fill these roles, and it’s hurting our economy. Dev Bootcamp is the most direct and practical way to solve this issue. Through a very rigorous, hands-on learning process, the students gain incredible breadth and depth of knowledge and practical skills turns them into high-performing contributors on the job. One of our star Chicago teachers, Kevin Solorio, told me a couple weeks ago that he fell in love Dev Bootcamp and took the job because he realized that the students were learning in 9 weeks what it took him almost 1.5 years to learn in his CS degree. Amazing! Over the last two years on average, 90% of our graduates have accepted job offers within 5 months. The model works. I’m a graduate of the program too and got a job web developer job offer on graduation day. I knew I wanted to join Dev Bootcamp full time so I declined, but it was pretty cool to receive a job offer from a beloved, publicly-listed company even though I wasn’t looking for one.</p>
+<p><strong>To unleash people’s full potential.</strong> Just as many people say that their college years were some of the best years of their life, I think that Dev Bootcamp is also some of the best 9 weeks of many of our student’s lives. It was for me. For the last 18 years – basically since high school -- I have wanted to code but never thought I could or never thought I would be able to learn. Now, I’m not only coding, but I feel confident in doing so. I can walk into any hackathon and contribute. Let’s be clear I’m a rookie, but I’m comfortable in the hacker community. Beyond the newfound skills and confidence, I also built life-long friendships. I got to know myself so much better. I cried with grown men and women on a regular basis as if they were life-long friends. (Yes, you will cry at Dev Bootcamp. It’s part of the rite of passage.) I overcame things and learned skills that I never thought I would or could. In summary, I, and so many of our graduates, got a taste of our full potential. Once somebody experiences this, they are transformed forever.</p>
+<p><strong>To close the gender gap in the software development industry.</strong> Tanner and I want to achieve gender-parity in our student admissions => 50% women. Looking at the numbers, most would argue this is impossible. There are deep cultural norms and institutional sexism at play making gender diversity in the software engineering second worse only to the mining industry. According to Payscale.com, 90% of web developers are men. Despite SF &amp; Chicago’s already strong diversity efforts initiatives, many more men still apply to Dev Bootcamp than women. This will change. It has to. We are making gender parity one of our top priorities in NYC, and we will invest whatever time and resources needed to achieve it as quickly as possible. It’s time to be the change. I’m very aware and am reminded every day that gender parity in our student admissions appears as feasible as the Jets winning the Superbowl this year (read: really, really low probability based on the fact that they’ve never given me a Superbowl win). But, I’m stubborn. I’m counting on a minor-miracle to happen. Are you my miracle? If so, don’t be shy. Please reach out.</p>
+<p><strong>To join a new tribe.</strong> In just two short years, Dev Bootcamp has become a very tight-knit extended community. Alumni are feeling a similar sense of deep belonging that they feel for their high schools or colleges. Our alumni stay in close touch and even come back to mentor, teach or just hangout. In a new era when people don’t know their neighbors anymore, affinity groups like DBC give people a sense of belonging and a sense of community. It’s a beautiful thing. As boots continue to graduate every three weeks, DBC is becoming much more than a web development bootcamp. It’s becoming a tribe… and a quirky, awesome one at that.</p>
+<p><strong>To build the first high-credentialed vocational degree.</strong> Today, most vocational schools have very poor reputations in society. They tend to be dry, technical programs that fail to inspire students. Overall, the US educational system is in a massive crisis and major transformation is needed. Luckily necessity is the mother of invention. I believe that in the next five years hiring managers will respond no differently to the Dev Bootcamp credential on a resume than they currently respond to prestigious degrees like Stanford, Harvard or Williams (I had to plug my alma-mater -- go Ephs!).</p>
+<p><strong>To build a model of change that scales globally.</strong> Dev Bootcamp pioneered this bootcamp teaching model: intensive, apprenticeship, short-format. In less than two years the model has already been replicated by 40+ companies in the US and abroad. This is really only the beginning. It’s only the beginning because the model is far from perfect. In fact, every three weeks we internally make adjustments (sometimes quite major changes) because there is so much opportunity for improvement, and we believe deeply in continuous improvement. It also only the beginning because every month a new bootcamp opens up somewhere in the world (…and by the way, we totally encourage it). Just as the micro-finance model was replicated by thousands of organizations and just as it took almost 40 years before Mohammad Yunus won the Nobel peace prize, our bootcamp educational model will also take decades, thousands of bootcamp organizations across the globe and hundreds of millions of graduated geeks. (Hopefully, Shereef will win the Nobel peace prize!) I’m looking forward to quite a ride ahead.</p>
+<p><strong>To serve as a success story for a new order of mission-driven businesses.</strong> Only one out of every four Americans is engaged at work. That means that 75% of working Americans don’t feel fulfilled and engaged by their work. That’s most of their waking hours. This statistic exemplifies just one of the failings of our current capitalistic system. And yet very little is really being done about it. Most people do want to seek out better ways to do business that appeal to both their conscience AND their wallet: an approach that puts purpose ahead of profit. More double bottom line businesses like Dev Bootcamp need to succeed and serve as role models for different ways to run purpose-driven organizations. Just as we’re experimenting with new educational models, we’re equally experimenting with new management and governance models (e.g. check out <a href="http://holacracy.org/">Holacracy</a> which we started implementing three weeks ago).</p>
+<p>--</p>
+<p>Dev Bootcamp graduates go out into the world with a strut… with a super-power, with deep new friendships, and with a better sense of themselves. They go out transformed and on the brink of highly meaningful professional careers in software development. So… <em>Why am I doing Dev Bootcamp?</em> I can’t imagine doing anything else.</p>
+<p><em>Don’t be a stranger. Email me directly using lloyd@devbootcamp.com.<br>
+Interested in being a student? Sweet! <a href="http://apply.devbootcamp.com/">Apply here</a>.<br>
+Interested in being a founding teacher? Awesome! Check out our <a href="http://devbootcamp.com/jobs/">jobs page</a> or just email us.<br>
+Interested in being my miracle? Email me.</em></p>
+</div>
+</div>
+<div class="blog-post">
+<div class="article-header">
+<div class="default-post-details">
+<h1><a href="/2013/10/30/Announcing-Dev-Bootcamp-New-York-City/">Announcing Dev Bootcamp New York City</a></h1>
+<p>Posted at 30 Oct 2013 by Tanner Welsh</p>
+</div>
+<div class="share-btns">
+<div>
+<a href="https://twitter.com/share" class="twitter-share-button" data-via="devbootcamp">Tweet</a>
+</div>
+<div>
+<div id="fb-root"></div>
+<div class="fb-like" data-send="false" data-layout="button_count" data-width="1" data-show-faces="false" data-action="like"></div>
+</div>
+<div>
+<script class="linkedin-share" type="IN/Share" data-counter="right" data-showzero="true"></script>
+</div>
+</div>
+</div>
+<div class="article-post">
+<p>Every 3 weeks, the doors of Dev Bootcamp open for 20 determined students to begin nine weeks of intensive training. This ritual has occurred dozens of times before at our Chicago and San Francisco locations, each with a different group of wide-eyed initiates. Today, we are excited to announce that another city is joining the DBC family. <strong>We are coming to New York City in 2014</strong>. As of today, <a href="http://apply.devbootcamp.com/">applications for our inaugural cohort</a> are now open.</p>
+<p>On March 31 of next year, our doors will open to 20 new students. I will be there to welcome them with my other co-founder, Lloyd Nimetz, and the founders of our SF and Chicago branches, Shereef Bishay and Dave Hoover. I know I speak for all of us in saying that we will surely be wearing the biggest goofy smiles, simultaneously overjoyed and nervous. All of our efforts are geared towards that day: we aim to build another unparalleled training program for aspiring web developers. And we are so freakin' excited that we get to build it in New York City.</p>
+<h2>Why we &lt;3 NYC</h2>
+<p>For one, New York has a thriving tech community with its own rich history, stretching from the pioneering work of the <a href="http://itp.nyu.edu/itp/">Interactive Telecommunications Program</a> to current ground-breaking initiatives such as those of the <a href="http://csnyc.org/">Computer Science Foundation of New York City</a> (CSNYC). All signs point to even more evolution and growth, with strong support from both the private and public sectors.</p>
+<p>We are thrilled to join the ranks of other great coding schools like <a href="http://flatironschool.com/">The Flatiron School</a>, <a href="https://www.hackerschool.com/">Hacker School</a>, and <a href="https://generalassemb.ly/">General Assembly</a>. They have paved the way for the particular bootcamp-style programs here in the city, and they continue to provide quality education for aspiring programmers.</p>
+<p>The wonderful collection of innovative companies founded and operating in New York City is another big plus. From <a href="http://www.etsy.com/">Etsy</a> to <a href="http://www.mongodb.com/">MongoDB</a>, <a href="https://foursquare.com/">FourSquare</a> to <a href="http://www.makerbot.com/">MakerBot</a>, <a href="https://www.tumblr.com/">Tumblr</a> to <a href="http://www.kickstarter.com/">Kickstarter</a>, and so many others, it is inspiring to be so close to such a wealth of creative enterprise.</p>
+<p>There are many, many other reasons that we love being in New York City, too many to list here. <strong>The city is vibrant and bursting with potential, full of creative people and innovative ideas about education, technology, and the myriad ways that they intersect.</strong> Buy me a beer sometime and I'd be happy to share more.</p>
+<h2>An ambitious vision</h2>
+<p>I hope that I have adequately expressed just how excited I am. Maybe you believe me, maybe you think I'm just trying to sell something. Either way, there is one last thing that I would like to share. Take from it what you will, but please don't judge too harshly. Because I'm about to talk about something that is very important to me, and I'm going to get a little sentimental.</p>
+<p>I'm going to talk about education.</p>
+<p>Education is, for me, a reason for living. By education I don't mean school, or study, or grades, or accreditation. The kind of education that I care about is the kind that transforms lives; it is the kind of education that makes you feel more connected to the world around you than you ever thought possible; <strong>the kind of education that pulls you beyond the limits of your knowledge and leaves you standing breathless and in awe of the truths you never knew existed</strong>. This is the kind of education that I strive to build and to make available to as many people as possible.</p>
+<p>The reason that I'm sharing this is because building a school like ours takes a metric ton of work and success is not guaranteed. Thankfully the challenge and the effort is a ton of fun in its own right. But it would be ultimately impossible (not to mention futile) without the shared dedication of our team.</p>
+<p>With this ethos as our guide, we've built some pretty great schools in San Francisco and Chicago, and they keep getting better. Now we look forward to a new challenge in a new city, and we can think of no better place to be than New York City.</p>
+<p><br></p>
+<p><em>If you share this vision (or you're just curious to hear how crazy I really am), email me at <a href="mailto:tanner@devbootcamp.com">tanner@devbootcamp.com</a>. Don't be scared, I'm actually a pretty mild-mannered guy in real life. We are also currently looking for some awesome teachers to come play with us, so if that sounds like something you'd be into, check out our <a href="http://devbootcamp.com/jobs/">jobs page</a>.</em></p>
+<p><em>Interested in being a student? Great! You can <a href="http://apply.devbootcamp.com/">apply here</a>.</em></p>
+</div>
+</div>
+<div class="pagination">
+<a href="/blog/page-2" class="previous">Previous</a>
+<span class="page_number ">Page: 3 of 51</span>
+<a href="/blog/page-4" class="next">Next</a>
+</div>
+</div>
+ 
+<div class="sidebar">
+<h2>Get Updates</h2>
+<p>
+Be the first to get updates about anything Dev Bootcamp related!
+</p>
+<form action="http://bettermeans.us2.list-manage2.com/subscribe/post?u=208c2e37446472f0a65c1a127&amp;id=a4766f6720" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+<input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
+</form>
+<ul class="social">
+<li><a href="http://quora.com/dev-bootcamp" class="quora">Quora</a></li>
+<li><a href="http://twitter.com/devbootcamp" class="twitter">Twitter</a></li>
+<li><a href="http://facebook.com/devbootcamp" class="facebook">Facebook</a></li>
+<li><a href="http://github.com/devbootcamp" class="github">Github</a></li>
+</ul>
+</div>
+ 
+</div>
+ 
+<footer class="blog-footer">
+<div class="container">
+<nav>
+<ul>
+<li><a href="/">Home</a></li>
+<li><a href="/learn-more/">DevBootWhat?</a></li>
+<li><a href="/alumni/">Alumni</a></li>
+<li><a href="/employers/">Employers</a></li>
+<li><a href="/faq/">FAQ</a></li>
+<li><a href="/blog/">Blog</a></li>
+<li><a href="http://apply.devbootcamp.com">Apply</a></li>
+</ul>
+</nav>
+<span class="copyright">&copy; 2012 Bootcamp Education Inc</span>
+</div>
+</footer>
+<script src="http://fast.wistia.com/static/concat/E-v1.js"></script>
+<script src="/js/jquery.js"></script>
+<script src="/js/jquery.mousewheel.js"></script>
+<script src="/js/jquery.jscrollpane.js"></script>
+<script src="/js/jquery.bxSlider.js"></script>
+<script src="/js/jquery.lightbox.js"></script>
+<script src="/js/dbc.js"></script>
+<script src="/js/social_media.js"></script>
+<script src="/js/bppe.js"></script>
+<script src="/js/video_player.js"></script>
+<script src="/js/she_codes.js"></script>
+</body>
+</html>
