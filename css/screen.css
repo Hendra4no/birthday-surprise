@@ -317,7 +317,8 @@ header {
 
   header .logo a {
     text-indent: -9999em;
-    background: url(../imgs/logo.png) no-repeat;
+    background: url(../imgs/logo3.png) no-repeat;
+    background-position: 10px -7px;
     width: 278px;
     height: 99px;
     margin: 0 25px 0 -50px;
@@ -395,12 +396,12 @@ header {
       font-weight: 600;
       text-align: center;
       background: #ef5344;
-      background: -moz-linear-gradient(top, #ef5344 0%, #e64a3b 100%);
-      background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ef5344), color-stop(100%,#e64a3b));
-      background: -webkit-linear-gradient(top, #ef5344 0%,#e64a3b 100%);
-      background: -o-linear-gradient(top, #ef5344 0%,#e64a3b 100%);
-      background: -ms-linear-gradient(top, #ef5344 0%,#e64a3b 100%);
-      background: linear-gradient(to bottom, #ef5344 0%,#e64a3b 100%);
+      background: -moz-linear-gradient(top, #e74700 0%, #e74700 100%);
+      background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#e74700), color-stop(100%,#e74700));
+      background: -webkit-linear-gradient(top, #e74700 0%,#e74700 100%);
+      background: -o-linear-gradient(top, #e74700 0%,#e74700 100%);
+      background: -ms-linear-gradient(top, #e74700 0%,#e74700 100%);
+      background: linear-gradient(to bottom, #e74700 0%,#e74700 100%);
       border: 1px solid #b03b30;
       -moz-border-radius: 3px;
       -webkit-border-radius: 3px;
@@ -745,14 +746,14 @@ header {
 ----------------------------------------------------------------------------------------------------------------*/
 
 .about-us {
-  background: #ea4a3c url(../imgs/about-us.jpg) no-repeat right top;
+  background: #ea4a3c url(../imgs/hodgepodge.png) right top;
   height: 347px;
   padding: 106px 0 0 0;
 }
 
   .about-us h1 {
     color: #fff;
-    font-size: 7.8em;
+    font-size: 6.8em;
     line-height: 80px;
     text-transform: uppercase;
     width: 400px;
