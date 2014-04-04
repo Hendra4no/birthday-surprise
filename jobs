@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://devbootcamp.com/jobs/">
+<meta property="og:url" content="http://davebootcamp.net/jobs/">
 <meta property="og:title" content="Jobs - Dev Bootcamp">
 <meta property="og:locale" content="en_US">
 <meta property="fb:admins" content="2900569">
@@ -42,7 +42,7 @@
 <li><a class="" href="/alumni/">Alumni</a></li>
 <li><a class="" href="/employers/">Employers</a></li>
 <li><a class="" href="/get-involved/">Get Involved</a></li>
-<li><a class="" href="/blog/">Blog</a></li>
+<li><a class="" target="_blank" href="http://thenewyorksquirrel.blogspot.com/">Blog</a></li>
 <li><a class="" href="/faq/">FAQ</a></li>
 <li><a href="#" class="show-tuition">Tuition</a></li>
 <li><a href="http://apply.devbootcamp.com" class="apply">Apply now</a></li>
@@ -284,7 +284,7 @@ If Dev Bootcamp's placement rate continues, it could become a <span>very hot tic
 <ul>
 <li><a href="/get-involved/">Get Involved</a></li>
 <li><a href="/faq/">Frequently Asked Questions</a></li>
-<li><a href="http://devbootcamp.com/blog/">Blog</a></li>
+<li><a href="http://thenewyorksquirrel.blogspot.com/">Blog</a></li>
 <li><a href="mailto:hello@devbootcamp.com">Contact Us</a></li>
 </ul>
 <ul>
