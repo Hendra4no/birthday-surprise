@@ -746,7 +746,8 @@ header {
 ----------------------------------------------------------------------------------------------------------------*/
 
 .about-us {
-  background: #ea4a3c url(../imgs/hodgepodge.png) right top;
+  background: #ea4a3c url(../imgs/about-us.png) no-repeat right top;
+  background-size: cover;
   height: 347px;
   padding: 106px 0 0 0;
 }
