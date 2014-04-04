@@ -396,12 +396,13 @@ header {
       font-weight: 600;
       text-align: center;
       background: #ef5344;
-      background: -moz-linear-gradient(top, #e74700 0%, #e74700 100%);
-      background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#e74700), color-stop(100%,#e74700));
-      background: -webkit-linear-gradient(top, #e74700 0%,#e74700 100%);
-      background: -o-linear-gradient(top, #e74700 0%,#e74700 100%);
-      background: -ms-linear-gradient(top, #e74700 0%,#e74700 100%);
-      background: linear-gradient(to bottom, #e74700 0%,#e74700 100%);
+      background: -moz-linear-gradient(top, #ef5344 0%, #e64a3b 100%);
+      background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ef5344), color-stop(100%,#e64a3b));
+      background: -webkit-linear-gradient(top, #ef5344 0%,#e64a3b 100%);
+      background: -o-linear-gradient(top, #ef5344 0%,#e64a3b 100%);
+      background: -ms-linear-gradient(top, #ef5344 0%,#e64a3b 100%);
+      background: linear-gradient(to bottom, #ef5344 0%,#e64a3b 100%);
+      border: 1px solid #b03b30;
       border: 1px solid #b03b30;
       -moz-border-radius: 3px;
       -webkit-border-radius: 3px;
@@ -2380,7 +2381,6 @@ header {
 
 footer {
   background: #20272d;
-  height: 130px;
   clear: both;
   overflow: hidden;
 }
@@ -2412,7 +2412,8 @@ footer {
     color: white;
     color: #4a565f;
     font-size: 1.6em;
-    padding-top: 37px;
+    margin-bottom: 50px;
+    padding: 37px 0px;
   }
 
   footer .bppe-footer a {
